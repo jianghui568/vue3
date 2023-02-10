@@ -22,8 +22,7 @@ export default defineComponent({
 .login-container {
     width: 100%;
     height: 100%;
-    background: url('../assets/images/login_background.jpg') center center fixed no-repeat;
-    background-size: cover;
+
 
 }
 </style>

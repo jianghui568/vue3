@@ -110,7 +110,7 @@ export default defineComponent({
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: #fff url('@/assets/login/bg.png') no-repeat center;
+    background: #fff url('../assets/login/bg.png') no-repeat center;
     overflow: hidden;
     background-size: cover;
     cursor: pointer;
